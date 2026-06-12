@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Vintage Clothes</string>
+    <string name="type_hint">Τύπος (jacket, dress...)</string>
+    <string name="decade_hint">Δεκαετία (1970s, 1980s...)</string>
+    <string name="size_hint">Μέγεθος (S, M, L...)</string>
+    <string name="brand_hint">Μάρκα</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="add_clothing">+ Προσθήκη Ρούχου</string>
+    <string name="username">Όνομα χρήστη</string>
+    <string name="password">Κωδικός</string>
+    <string name="login">Σύνδεση</string>
+    <string name="detail_type">Τύπος: %1$s</string>
+    <string name="detail_decade">Δεκαετία: %1$s</string>
+    <string name="detail_brand">Μάρκα: %1$s</string>
+    <string name="detail_size">Μέγεθος: %1$s</string>
+    <string name="detail_description">Περιγραφή: %1$s</string>
+    <string name="rate_this_item">Βαθμολόγησε:</string>
+    <string name="rating_saved">Αξιολόγηση αποθηκεύτηκε: %1$d/5</string>
+    <string name="rating_local">Η αξιολόγησή σου: %1$d/5</string>
+    <string name="watch_video">Δες Βίντεο</string>
+    <string name="back">Πίσω</string>
+    <string name="add_clothing_title">Προσθήκη Ρούχου</string>
+    <string name="captured_photo">Φωτογραφία</string>
+    <string name="take_photo">Φωτογραφία</string>
+    <string name="retake_photo">Νέα Φωτογραφία</string>
+    <string name="title_hint">Τίτλος</string>
+    <string name="description_hint">Περιγραφή</string>
+    <string name="type_label">Τύπος</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="results_title">Αποτελέσματα</string>
+    <string name="no_results">Δεν βρέθηκαν αποτελέσματα</string>
+    <string name="video_url_hint">URL Βίντεο</string>
+</resources>

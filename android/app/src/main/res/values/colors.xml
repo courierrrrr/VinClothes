@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="star_gold">#FFFFAA00</color>
+    <color name="star_inactive">#FFCCCCCC</color>
+    <color name="seed">#00C9A7</color>
+</resources>
